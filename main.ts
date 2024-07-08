@@ -1,4 +1,4 @@
-//Assignmen 17
+//Assignment 17
 
 // shrinking guest list
 
